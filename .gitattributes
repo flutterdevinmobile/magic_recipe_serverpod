@@ -1,0 +1,7 @@
+*.tf linguist-vendored
+*.hcl linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
